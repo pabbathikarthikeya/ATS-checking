@@ -1,0 +1,5 @@
+job_description = """
+We are looking for a Data Scientist with experience in machine learning, Python, and SQL. 
+The candidate should have expertise in data preprocessing, model development, and deployment.
+Preferred skills include TensorFlow, scikit-learn, and cloud technologies like AWS or Azure.
+"""
